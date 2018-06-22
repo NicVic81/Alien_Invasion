@@ -31,4 +31,5 @@ def run_game():
         # Redraw the screen during each pass through the loop and display the most recent version.
         gf.update_screen(ai_settings, screen, ship, aliens, bullets)
 
+
 run_game()
